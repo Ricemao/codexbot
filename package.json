@@ -1,0 +1,13 @@
+{
+  "name": "codexbot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal starter project for Codex Cloud",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node -e \"console.log('ok')\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
